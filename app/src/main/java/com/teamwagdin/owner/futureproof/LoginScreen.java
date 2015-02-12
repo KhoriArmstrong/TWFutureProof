@@ -24,11 +24,11 @@ public class LoginScreen extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        username = (EditText)findViewById(R.id.editText1);
-        password = (EditText)findViewById(R.id.editText2);
-        attempts = (TextView)findViewById(R.id.textView5);
+        // username = (EditText)findViewById(R.id.editText1);
+        // password = (EditText)findViewById(R.id.editText2);
+        // attempts = (TextView)findViewById(R.id.textView5);
         attempts.setText(Integer.toString(counter));
-        login = (Button)findViewById(R.id.button1);
+        // login = (Button)findViewById(R.id.button1);
     }
 
     public void login(View view){
