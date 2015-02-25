@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FutureProof.iml" filepath="$PROJECT_DIR$/FutureProof.iml" />
       <module fileurl="file://$PROJECT_DIR$/TWFutureProof.iml" filepath="$PROJECT_DIR$/TWFutureProof.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
